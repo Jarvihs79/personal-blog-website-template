@@ -9,3 +9,11 @@
 
 
 }
+.blogcontent-left h1{
+    margin: 50px;
+    text-align:  center;
+}
+.blogcontent-left h3{
+    text-align-last:right;
+    margin-bottom: 40px;
+}

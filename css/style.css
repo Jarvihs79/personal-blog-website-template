@@ -7,7 +7,7 @@
     margin-top: 25px;
     font-family: var(--font1);
     height: 80px;
-    background-color: antiquewhite;
+    /* background-color: antiquewhite; */
     display: flex;
     justify-content: space-between;
     align-items: center;
